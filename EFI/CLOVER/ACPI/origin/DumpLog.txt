@@ -1,0 +1,150 @@
+19:731  1:962  Found BIOS RSDP at F0140
+19:731  0:000  Printing ACPI tables from RSDP F0140 ...
+19:731  0:000   F0140: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+19:731  0:000    (Xsdt: BB7C2188, Rsdt: BB7C20C4)
+19:731  0:000    BB7C2188: 'XSDT', 'TP-R0P', Rev: 1, Len: 204
+19:731  0:000    BB7C20C4: 'RSDT', 'TP-R0P', Rev: 1, Len: 120
+19:731  0:000    Tables in Xsdt: 21
+19:731  0:000    0. BB7F7000: 'FACP', 'TP-R0P', Rev: 5, Len: 244
+19:731  0:000        (Dsdt: BB7D1000, Facs: BB70D000, XDsdt: BB7D1000, XFacs: 0)
+19:731  0:000        BB7D1000: 'DSDT', 'SKL', Rev: 2, Len: 137613
+19:735  0:003        BB70D000: 'FACS', Ver: 2, Len: 64
+19:735  0:000    1. BB723000: 'UEFI', 'TP-R0P', Rev: 1, Len: 66
+19:735  0:000    2. BB7F9000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12868
+19:735  0:000    3. BB7F8000: 'SSDT', 'PerfTune', Rev: 2, Len: 1478
+19:735  0:000    4. BB7F6000: 'HPET', 'TP-R0P', Rev: 1, Len: 56
+19:735  0:000    5. BB7F5000: 'APIC', 'TP-R0P', Rev: 3, Len: 300
+19:735  0:000    6. BB7F4000: 'MCFG', 'TP-R0P', Rev: 1, Len: 60
+19:735  0:000    7. BB7F3000: 'ECDT', 'TP-R0P', Rev: 1, Len: 83
+19:735  0:000    8. BB7CF000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5804
+19:735  0:000    9. BB7CE000: 'BOOT', 'TP-R0P', Rev: 1, Len: 40
+19:735  0:000    10. BB7CD000: 'BATB', 'TP-R0P', Rev: 2, Len: 74
+19:735  0:000    11. BB7CB000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+19:735  0:000    12. BB7CA000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+19:735  0:000    13. BB7C9000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1608
+19:735  0:000    14. BB7C8000: 'DBGP', 'TP-R0P', Rev: 1, Len: 52
+19:735  0:000    15. BB7C7000: 'DBG2', 'TP-R0P', Rev: 0, Len: 84
+19:735  0:000    16. BB7C6000: 'MSDM', 'TP-R0P', Rev: 3, Len: 85
+19:735  0:000    17. BB7C5000: 'DMAR', 'TP-R0P', Rev: 1, Len: 168
+19:735  0:000    18. BB7C4000: 'ASF!', 'TP-R0P', Rev: 32, Len: 160
+19:735  0:000    19. BB7C3000: 'FPDT', 'TP-R0P', Rev: 1, Len: 68
+19:735  0:000    20. BB70A000: 'UEFI', 'TP-R0P', Rev: 1, Len: 318
+19:735  0:000    Tables in Rsdt: 21
+19:735  0:000    0. BB7F7000: 'FACP', 'TP-R0P', Rev: 5, Len: 244
+19:735  0:000        (Dsdt: BB7D1000, Facs: BB70D000, XDsdt: BB7D1000, XFacs: 0)
+19:735  0:000        BB7D1000: 'DSDT', 'SKL', Rev: 2, Len: 137613
+19:739  0:003        BB70D000: 'FACS', Ver: 2, Len: 64
+19:739  0:000    1. BB723000: 'UEFI', 'TP-R0P', Rev: 1, Len: 66
+19:739  0:000    2. BB7F9000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12868
+19:739  0:000    3. BB7F8000: 'SSDT', 'PerfTune', Rev: 2, Len: 1478
+19:739  0:000    4. BB7F6000: 'HPET', 'TP-R0P', Rev: 1, Len: 56
+19:739  0:000    5. BB7F5000: 'APIC', 'TP-R0P', Rev: 3, Len: 300
+19:739  0:000    6. BB7F4000: 'MCFG', 'TP-R0P', Rev: 1, Len: 60
+19:739  0:000    7. BB7F3000: 'ECDT', 'TP-R0P', Rev: 1, Len: 83
+19:739  0:000    8. BB7CF000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5804
+19:739  0:000    9. BB7CE000: 'BOOT', 'TP-R0P', Rev: 1, Len: 40
+19:739  0:000    10. BB7CD000: 'BATB', 'TP-R0P', Rev: 2, Len: 74
+19:739  0:000    11. BB7CB000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+19:739  0:000    12. BB7CA000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+19:739  0:000    13. BB7C9000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1608
+19:739  0:000    14. BB7C8000: 'DBGP', 'TP-R0P', Rev: 1, Len: 52
+19:739  0:000    15. BB7C7000: 'DBG2', 'TP-R0P', Rev: 0, Len: 84
+19:739  0:000    16. BB7C6000: 'MSDM', 'TP-R0P', Rev: 3, Len: 85
+19:739  0:000    17. BB7C5000: 'DMAR', 'TP-R0P', Rev: 1, Len: 168
+19:739  0:000    18. BB7C4000: 'ASF!', 'TP-R0P', Rev: 32, Len: 160
+19:739  0:000    19. BB7C3000: 'FPDT', 'TP-R0P', Rev: 1, Len: 68
+19:739  0:000    20. BB70A000: 'UEFI', 'TP-R0P', Rev: 1, Len: 318
+19:739  0:000  Found UEFI Acpi 2.0 RSDP at BB7FE014
+19:739  0:000  Saving ACPI tables from RSDP BB7FE014 to EFI\CLOVER\ACPI\origin ...
+19:739  0:000   BB7FE014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+19:748  0:008    (Xsdt: BB7C2188, Rsdt: BB7C20C4)
+19:748  0:000    BB7C2188: 'XSDT', 'TP-R0P', Rev: 1, Len: 204 -> XSDT.aml
+19:754  0:006    BB7C20C4: 'RSDT', 'TP-R0P', Rev: 1, Len: 120 -> RSDT.aml
+19:760  0:005    Tables in Xsdt: 21
+19:760  0:000    0. BB7F7000: 'FACP', 'TP-R0P', Rev: 5, Len: 244 -> FACP.aml
+19:766  0:006        (Dsdt: BB7D1000, Facs: BB70D000, XDsdt: BB7D1000, XFacs: 0)
+19:766  0:000        BB7D1000: 'DSDT', 'SKL', Rev: 2, Len: 137613 -> DSDT.aml
+19:779  0:013        BB70D000: 'FACS', Ver: 2, Len: 64 -> FACS.aml
+19:785  0:006    1. BB723000: 'UEFI', 'TP-R0P', Rev: 1, Len: 66 -> UEFI.aml
+19:791  0:006    2. BB7F9000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12868 -> SSDT-0-SaSsdt.aml
+19:798  0:006    3. BB7F8000: 'SSDT', 'PerfTune', Rev: 2, Len: 1478 -> SSDT-1-PerfTune.aml
+19:804  0:006    4. BB7F6000: 'HPET', 'TP-R0P', Rev: 1, Len: 56 -> HPET.aml
+19:811  0:006    5. BB7F5000: 'APIC', 'TP-R0P', Rev: 3, Len: 300 -> APIC.aml
+19:817  0:006    6. BB7F4000: 'MCFG', 'TP-R0P', Rev: 1, Len: 60 -> MCFG.aml
+19:823  0:006    7. BB7F3000: 'ECDT', 'TP-R0P', Rev: 1, Len: 83 -> ECDT.aml
+19:829  0:005    8. BB7CF000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5804 -> SSDT-2-ProjSsdt.aml
+19:835  0:006    9. BB7CE000: 'BOOT', 'TP-R0P', Rev: 1, Len: 40 -> BOOT.aml
+19:841  0:005    10. BB7CD000: 'BATB', 'TP-R0P', Rev: 2, Len: 74 -> BATB.aml
+19:847  0:006    11. BB7CB000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062 -> SSDT-3-CpuSsdt.aml (Found hidden SSDT 7 pcs)
+19:853  0:006        * BB6FC098: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1549  53 53 44 54 0D 06 00 00 02 32 50 6D 52 65 66 00 Internal length = 1549 -> SSDT-x3_0-Cpu0Ist.aml
+19:860  0:006        * BB693018: 'SSDT', 'ApIst', Rev: 2, Len: 3348  53 53 44 54 14 0D 00 00 02 2A 50 6D 52 65 66 00 Internal length = 3348 -> SSDT-x3_1-ApIst.aml
+19:866  0:006        * BB692018: 'SSDT', 'Cpu0Cst', Rev: 2, Len: 1023  53 53 44 54 FF 03 00 00 02 11 50 6D 52 65 66 00 Internal length = 1023 -> SSDT-x3_2-Cpu0Cst.aml
+19:874  0:008        * BB6FC718: 'SSDT', 'ApCst', Rev: 2, Len: 778  53 53 44 54 0A 03 00 00 02 93 50 6D 52 65 66 00 Internal length = 778 -> SSDT-x3_3-ApCst.aml
+19:881  0:006        * B5979D18: 'SSDT', 'Cpu0Hwp', Rev: 2, Len: 186  53 53 44 54 BA 00 00 00 02 7D 50 6D 52 65 66 00 Internal length = 186 -> SSDT-x3_4-Cpu0Hwp.aml
+19:888  0:006        * B5972018: 'SSDT', 'ApHwp', Rev: 2, Len: 791  53 53 44 54 17 03 00 00 02 80 50 6D 52 65 66 00 Internal length = 791 -> SSDT-x3_5-ApHwp.aml
+19:895  0:006        * B596C698: 'SSDT', 'HwpLvt', Rev: 2, Len: 1576  53 53 44 54 28 06 00 00 02 85 50 6D 52 65 66 00 Internal length = 1576 -> SSDT-x3_6-HwpLvt.aml
+19:902  0:007  
+19:902  0:000    12. BB7CA000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389 -> SSDT-4-CtdpB.aml
+19:910  0:007    13. BB7C9000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1608 -> SSDT-5-UsbCTabl.aml
+19:917  0:007    14. BB7C8000: 'DBGP', 'TP-R0P', Rev: 1, Len: 52 -> DBGP.aml
+19:924  0:006    15. BB7C7000: 'DBG2', 'TP-R0P', Rev: 0, Len: 84 -> DBG2.aml
+19:931  0:007    16. BB7C6000: 'MSDM', 'TP-R0P', Rev: 3, Len: 85 -> MSDM.aml
+19:940  0:009    17. BB7C5000: 'DMAR', 'TP-R0P', Rev: 1, Len: 168 -> DMAR.aml
+19:947  0:007    18. BB7C4000: 'ASF!', 'TP-R0P', Rev: 32, Len: 160 -> ASF!.aml
+19:955  0:007    19. BB7C3000: 'FPDT', 'TP-R0P', Rev: 1, Len: 68 -> FPDT.aml
+19:961  0:006    20. BB70A000: 'UEFI', 'TP-R0P', Rev: 1, Len: 318 -> UEFI.aml
+19:973  0:011    Tables in Rsdt: 21
+19:973  0:000    0. BB7F7000: 'FACP', 'TP-R0P', Rev: 5, Len: 244
+19:973  0:000        (Dsdt: BB7D1000, Facs: BB70D000, XDsdt: BB7D1000, XFacs: 0)
+19:973  0:000        BB7D1000: 'DSDT', 'SKL', Rev: 2, Len: 137613
+19:977  0:003        BB70D000: 'FACS', Ver: 2, Len: 64
+19:977  0:000    1. BB723000: 'UEFI', 'TP-R0P', Rev: 1, Len: 66
+19:977  0:000    2. BB7F9000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12868
+19:977  0:000    3. BB7F8000: 'SSDT', 'PerfTune', Rev: 2, Len: 1478
+19:977  0:000    4. BB7F6000: 'HPET', 'TP-R0P', Rev: 1, Len: 56
+19:977  0:000    5. BB7F5000: 'APIC', 'TP-R0P', Rev: 3, Len: 300
+19:977  0:000    6. BB7F4000: 'MCFG', 'TP-R0P', Rev: 1, Len: 60
+19:977  0:000    7. BB7F3000: 'ECDT', 'TP-R0P', Rev: 1, Len: 83
+19:977  0:000    8. BB7CF000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5804
+19:977  0:000    9. BB7CE000: 'BOOT', 'TP-R0P', Rev: 1, Len: 40
+19:977  0:000    10. BB7CD000: 'BATB', 'TP-R0P', Rev: 2, Len: 74
+19:977  0:000    11. BB7CB000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+19:977  0:000    12. BB7CA000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+19:977  0:000    13. BB7C9000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1608
+19:977  0:000    14. BB7C8000: 'DBGP', 'TP-R0P', Rev: 1, Len: 52
+19:977  0:000    15. BB7C7000: 'DBG2', 'TP-R0P', Rev: 0, Len: 84
+19:977  0:000    16. BB7C6000: 'MSDM', 'TP-R0P', Rev: 3, Len: 85
+19:977  0:000    17. BB7C5000: 'DMAR', 'TP-R0P', Rev: 1, Len: 168
+19:977  0:000    18. BB7C4000: 'ASF!', 'TP-R0P', Rev: 32, Len: 160
+19:977  0:000    19. BB7C3000: 'FPDT', 'TP-R0P', Rev: 1, Len: 68
+19:977  0:000    20. BB70A000: 'UEFI', 'TP-R0P', Rev: 1, Len: 318
+19:977  0:000  Found UEFI Acpi 1.0 RSDP at BB7FE000
+19:977  0:000  Printing ACPI tables from RSDP BB7FE000 ...
+19:977  0:000   BB7FE000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+19:977  0:000    (Rsdt: BB7C2000)
+19:977  0:000    BB7C2000: 'RSDT', 'TP-R0P', Rev: 1, Len: 120
+19:977  0:000    Tables in Rsdt: 21
+19:977  0:000    0. BB7F7000: 'FACP', 'TP-R0P', Rev: 5, Len: 244
+19:977  0:000        (Dsdt: BB7D1000, Facs: BB70D000, XDsdt: BB7D1000, XFacs: 0)
+19:977  0:000        BB7D1000: 'DSDT', 'SKL', Rev: 2, Len: 137613
+19:981  0:003        BB70D000: 'FACS', Ver: 2, Len: 64
+19:981  0:000    1. BB723000: 'UEFI', 'TP-R0P', Rev: 1, Len: 66
+19:981  0:000    2. BB7F9000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12868
+19:981  0:000    3. BB7F8000: 'SSDT', 'PerfTune', Rev: 2, Len: 1478
+19:981  0:000    4. BB7F6000: 'HPET', 'TP-R0P', Rev: 1, Len: 56
+19:981  0:000    5. BB7F5000: 'APIC', 'TP-R0P', Rev: 3, Len: 300
+19:981  0:000    6. BB7F4000: 'MCFG', 'TP-R0P', Rev: 1, Len: 60
+19:981  0:000    7. BB7F3000: 'ECDT', 'TP-R0P', Rev: 1, Len: 83
+19:981  0:000    8. BB7CF000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5804
+19:981  0:000    9. BB7CE000: 'BOOT', 'TP-R0P', Rev: 1, Len: 40
+19:981  0:000    10. BB7CD000: 'BATB', 'TP-R0P', Rev: 2, Len: 74
+19:981  0:000    11. BB7CB000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+19:981  0:000    12. BB7CA000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+19:981  0:000    13. BB7C9000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1608
+19:981  0:000    14. BB7C8000: 'DBGP', 'TP-R0P', Rev: 1, Len: 52
+19:981  0:000    15. BB7C7000: 'DBG2', 'TP-R0P', Rev: 0, Len: 84
+19:981  0:000    16. BB7C6000: 'MSDM', 'TP-R0P', Rev: 3, Len: 85
+19:981  0:000    17. BB7C5000: 'DMAR', 'TP-R0P', Rev: 1, Len: 168
+19:981  0:000    18. BB7C4000: 'ASF!', 'TP-R0P', Rev: 32, Len: 160
+19:981  0:000    19. BB7C3000: 'FPDT', 'TP-R0P', Rev: 1, Len: 68
+19:981  0:000    20. BB70A000: 'UEFI', 'TP-R0P', Rev: 1, Len: 318
