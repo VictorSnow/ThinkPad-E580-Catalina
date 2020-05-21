@@ -25,13 +25,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					X0RTTQ==
-					</data>
+					<data>X0RTTQ==</data>
 					<key>Replace</key>
-					<data>
-					WERTTQ==
-					</data>
+					<data>WERTTQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -39,13 +35,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					T1NJRA==
-					</data>
+					<data>T1NJRA==</data>
 					<key>Replace</key>
-					<data>
-					SURPUw==
-					</data>
+					<data>SURPUw==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -53,13 +45,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					X09TSQ==
-					</data>
+					<data>X09TSQ==</data>
 					<key>Replace</key>
-					<data>
-					WE9TSQ==
-					</data>
+					<data>WE9TSQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -67,13 +55,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					SERBUw==
-					</data>
+					<data>SERBUw==</data>
 					<key>Replace</key>
-					<data>
-					SERFRg==
-					</data>
+					<data>SERFRg==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -81,13 +65,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					SEVDSQ==
-					</data>
+					<data>SEVDSQ==</data>
 					<key>Replace</key>
-					<data>
-					SU1FSQ==
-					</data>
+					<data>SU1FSQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -95,13 +75,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					IEJSVDY=
-					</data>
+					<data>IEJSVDY=</data>
 					<key>Replace</key>
-					<data>
-					IEJSVFg=
-					</data>
+					<data>IEJSVFg=</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -109,13 +85,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					R0ZYMA==
-					</data>
+					<data>R0ZYMA==</data>
 					<key>Replace</key>
-					<data>
-					SUdQVQ==
-					</data>
+					<data>SUdQVQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -123,13 +95,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					U0FUMA==
-					</data>
+					<data>U0FUMA==</data>
 					<key>Replace</key>
-					<data>
-					U0FUQQ==
-					</data>
+					<data>U0FUQQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -137,13 +105,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					oG2gAw==
-					</data>
+					<data>oG2gAw==</data>
 					<key>Replace</key>
-					<data>
-					oG2gAA==
-					</data>
+					<data>oG2gAA==</data>
 				</dict>
 			</array>
 			<key>ReuseFFFF</key>
@@ -186,7 +150,7 @@
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
-		<string>Work</string>
+		<string>mac33</string>
 		<key>NoEarlyProgress</key>
 		<true/>
 		<key>Secure</key>
@@ -227,94 +191,14 @@
 		</dict>
 		<key>Properties</key>
 		<dict>
-			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
+			<key>PciRoot(0x0)/Pci(0x14,0x0)</key>
 			<dict>
-				<key>AAPL,ig-platform-id</key>
-				<data>
-				AAAWWQ==
-				</data>
-				<key>device-id</key>
-				<data>
-				FlkAAA==
-				</data>
-				<key>disable-external-gpu</key>
-				<data>
-				AQAAAA==
-				</data>
-				<key>enable-hdmi20</key>
-				<data>
-				AQAAAA==
-				</data>
-				<key>framebuffer-con1-enable</key>
-				<data>
-				AQAAAA==
-				</data>
-				<key>framebuffer-con1-type</key>
-				<data>
-				AAgAAA==
-				</data>
-				<key>framebuffer-con2-busid</key>
-				<data>
-				AAAAAA==
-				</data>
-				<key>framebuffer-con2-enable</key>
-				<data>
-				AQAAAA==
-				</data>
-				<key>framebuffer-con2-flags</key>
-				<data>
-				AAAAAA==
-				</data>
-				<key>framebuffer-con2-index</key>
-				<data>
-				/////w==
-				</data>
-				<key>framebuffer-con2-pipe</key>
-				<data>
-				AAAAAA==
-				</data>
-				<key>framebuffer-con2-type</key>
-				<data>
-				AQAAAA==
-				</data>
-				<key>framebuffer-con3-enable</key>
-				<data>
-				AQAAAA==
-				</data>
-				<key>framebuffer-con3-flags</key>
-				<data>
-				AAAAAA==
-				</data>
-				<key>framebuffer-fbmem</key>
-				<data>
-				AACQAA==
-				</data>
-				<key>framebuffer-memorycount</key>
-				<data>
-				AgAAAA==
-				</data>
-				<key>framebuffer-patch-enable</key>
-				<data>
-				AQAAAA==
-				</data>
-				<key>framebuffer-pipecount</key>
-				<data>
-				AgAAAA==
-				</data>
-				<key>framebuffer-portcount</key>
-				<data>
-				AgAAAA==
-				</data>
-				<key>framebuffer-stolenmem</key>
-				<data>
-				AAAwAQ==
-				</data>
-				<key>framebuffer-unifiedmem</key>
-				<data>
-				AAAAwA==
-				</data>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,20,0</string>
+				<key>device_type</key>
+				<string>USB controller</string>
 				<key>model</key>
-				<string>Intel UHD 620</string>
+				<string>Sunrise Point-LP USB 3.0 xHCI Controller</string>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1d,0x3)/Pci(0x0,0x0)</key>
 			<dict>
@@ -325,14 +209,52 @@
 				<key>model</key>
 				<string>SD/MMC Card Reader Controller</string>
 			</dict>
-			<key>PciRoot(0x0)/Pci(0x14,0x0)</key>
+			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
-				<key>AAPL,slot-name</key>
-				<string>Internal@0,20,0</string>
-				<key>device_type</key>
-				<string>USB controller</string>
+				<key>AAPL,ig-platform-id</key>
+				<data>AAAWWQ==</data>
+				<key>device-id</key>
+				<data>FlkAAA==</data>
+				<key>disable-external-gpu</key>
+				<data>AQAAAA==</data>
+				<key>enable-hdmi20</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con1-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con1-type</key>
+				<data>AAgAAA==</data>
+				<key>framebuffer-con2-busid</key>
+				<data>AAAAAA==</data>
+				<key>framebuffer-con2-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con2-flags</key>
+				<data>AAAAAA==</data>
+				<key>framebuffer-con2-index</key>
+				<data>/////w==</data>
+				<key>framebuffer-con2-pipe</key>
+				<data>AAAAAA==</data>
+				<key>framebuffer-con2-type</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con3-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con3-flags</key>
+				<data>AAAAAA==</data>
+				<key>framebuffer-fbmem</key>
+				<data>AACQAA==</data>
+				<key>framebuffer-memorycount</key>
+				<data>AgAAAA==</data>
+				<key>framebuffer-patch-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-pipecount</key>
+				<data>AgAAAA==</data>
+				<key>framebuffer-portcount</key>
+				<data>AgAAAA==</data>
+				<key>framebuffer-stolenmem</key>
+				<data>AAAwAQ==</data>
+				<key>framebuffer-unifiedmem</key>
+				<data>AAAAwA==</data>
 				<key>model</key>
-				<string>Sunrise Point-LP USB 3.0 xHCI Controller</string>
+				<string>Intel UHD 620</string>
 			</dict>
 		</dict>
 		<key>USB</key>
@@ -376,7 +298,7 @@
 		<key>ScreenResolution</key>
 		<string>1920x1080</string>
 		<key>Theme</key>
-		<string>bluemac</string>
+		<string>random</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
@@ -423,15 +345,11 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				sABMi1Xw
-				</data>
+				<data>sABMi1Xw</data>
 				<key>MatchOS</key>
 				<string>10.13.x</string>
 				<key>Replace</key>
-				<data>
-				SIPEQF3D
-				</data>
+				<data>SIPEQF3D</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -439,15 +357,11 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				igKEwHRE
-				</data>
+				<data>igKEwHRE</data>
 				<key>MatchOS</key>
 				<string>10.13.x</string>
 				<key>Replace</key>
-				<data>
-				igKEwOtE
-				</data>
+				<data>igKEwOtE</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -455,13 +369,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				ILniAAAADzA=
-				</data>
+				<data>ILniAAAADzA=</data>
 				<key>Replace</key>
-				<data>
-				ILniAAAAkJA=
-				</data>
+				<data>ILniAAAAkJA=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -469,15 +379,11 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				igKEwHRC
-				</data>
+				<data>igKEwHRC</data>
 				<key>MatchOS</key>
 				<string>10.14.x</string>
 				<key>Replace</key>
-				<data>
-				igKEwOtC
-				</data>
+				<data>igKEwOtC</data>
 			</dict>
 		</array>
 		<key>KernelXCPM</key>
@@ -490,9 +396,7 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				g/sPD4MDBQA=
-				</data>
+				<data>g/sPD4MDBQA=</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -500,9 +404,7 @@
 				<key>Name</key>
 				<string>com.apple.driver.usb.AppleUSBXHCI</string>
 				<key>Replace</key>
-				<data>
-				g/saD4MDBQA=
-				</data>
+				<data>g/saD4MDBQA=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -510,9 +412,7 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				g/sPD4MDBQAA
-				</data>
+				<data>g/sPD4MDBQAA</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -520,9 +420,7 @@
 				<key>Name</key>
 				<string>com.apple.driver.usb.AppleUSBXHCI</string>
 				<key>Replace</key>
-				<data>
-				g/sPkJCQkJCQ
-				</data>
+				<data>g/sPkJCQkJCQ</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -530,9 +428,7 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				dkZI/wX8awg=
-				</data>
+				<data>dkZI/wX8awg=</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -540,73 +436,71 @@
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelKBLGraphicsFramebuffer</string>
 				<key>Replace</key>
-				<data>
-				60ZI/wX8awg=
-				</data>
+				<data>60ZI/wX8awg=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
 				<string>USB port limit patch #1/4 10.14.x modify by DalianSky (credit ydeng)</string>
+				<key>Disabled</key>
+				<false/>
 				<key>Find</key>
-				<data>
-				g/sPDw==
-				</data>
+				<data>g/sPDw==</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>MatchOS</key>
 				<string>10.14.x</string>
 				<key>Name</key>
 				<string>com.apple.iokit.IOUSBHostFamily</string>
 				<key>Replace</key>
-				<data>
-				g/s/Dw==
-				</data>
+				<data>g/s/Dw==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
 				<string>USB port limit patch #2/4 10.14.x modify by DalianSky (credit PMHeart)</string>
+				<key>Disabled</key>
+				<false/>
 				<key>Find</key>
-				<data>
-				g+MP0w==
-				</data>
+				<data>g+MP0w==</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>MatchOS</key>
 				<string>10.14.x</string>
 				<key>Name</key>
 				<string>com.apple.iokit.IOUSBHostFamily</string>
 				<key>Replace</key>
-				<data>
-				g+M/0w==
-				</data>
+				<data>g+M/0w==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
 				<string>USB Port limit patch #3/4 10.14.x modify by DalianSky (credit PMheart)</string>
+				<key>Disabled</key>
+				<false/>
 				<key>Find</key>
-				<data>
-				g/sPDw==
-				</data>
+				<data>g/sPDw==</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>MatchOS</key>
 				<string>10.14.x</string>
 				<key>Name</key>
 				<string>com.apple.driver.usb.AppleUSBXHCI</string>
 				<key>Replace</key>
-				<data>
-				g/s/Dw==
-				</data>
+				<data>g/s/Dw==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
 				<string>USB Port limit patch #4/4 10.14.x modify by DalianSky (credit PMheart)</string>
+				<key>Disabled</key>
+				<false/>
 				<key>Find</key>
-				<data>
-				g/8PDw==
-				</data>
+				<data>g/8PDw==</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>MatchOS</key>
 				<string>10.14.x</string>
 				<key>Name</key>
 				<string>com.apple.driver.usb.AppleUSBXHCI</string>
 				<key>Replace</key>
-				<data>
-				g/8/Dw==
-				</data>
+				<data>g/8/Dw==</data>
 			</dict>
 		</array>
 	</dict>
@@ -619,9 +513,7 @@
 		<key>MLB</key>
 		<string>14</string>
 		<key>ROM</key>
-		<data>
-		dcKRPYWP
-		</data>
+		<data>dcKRPYWP</data>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
@@ -681,14 +573,16 @@
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
+		<key>BacklightLevel</key>
+		<string>0x015A</string>
 		<key>CustomUUID</key>
 		<string>DB6D3598-2B02-5349-B833-60004F66595E</string>
+		<key>ExposeSysVariables</key>
+		<false/>
 		<key>InjectKexts</key>
 		<string>Yes</string>
 		<key>InjectSystemID</key>
 		<true/>
-		<key>NoCaches</key>
-		<false/>
 	</dict>
 </dict>
 </plist>
